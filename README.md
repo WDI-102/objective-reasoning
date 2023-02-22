@@ -119,7 +119,7 @@ getHardestHomework([
 ## 5. `createPhonebook`
 
 Write a function, `createPhonebook`, that creates a phonebook object from an array of names
-and phone numbers.
+and another array of phone numbers.
 
 **Examples**
 ```
